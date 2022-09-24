@@ -11,8 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "winax": "^3.3.4"
-  },
-  "bin" : {
-    "itunesAD" : "index.js"
-} 
+  }
 }
